@@ -96,4 +96,8 @@
         display: flex;
         flex: 1;
     }
+    .left-section .humbarger{
+
+       opacity:0;
+    }
 }
